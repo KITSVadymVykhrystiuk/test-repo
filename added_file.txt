@@ -1,2 +1,4 @@
 added file text
+added file text
 ANOTHER CHANGES
+NEW TEXT
